@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="powerBar" type="id" />
+    <item name="combatBar" type="id" />
+    <item name="powerStatsLabel" type="id" />
+    <item name="intelligenceBar" type="id" />
+    <item name="strengthBar" type="id" />
+    <item name="speedBar" type="id" />
+    <item name="durabilityBar" type="id" />
+</resources>
